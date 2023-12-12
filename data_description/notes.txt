@@ -90,7 +90,7 @@ Bb1X2 = Number of BetBrain bookmakers used to calculate match odds averages and 
 BbMxH = Betbrain maximum home win odds
 BbAvH = Betbrain average home win odds
 BbMxD = Betbrain maximum draw odds
-BbAvD = Betbrain average draw win odds
+BbAvD = Betbrain average draw odds
 BbMxA = Betbrain maximum away win odds
 BbAvA = Betbrain average away win odds
 
